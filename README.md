@@ -1,6 +1,6 @@
-# 🚀 GigFlow - Freelance Marketplace Platform
+# 🚀 TigFlow - Freelance Marketplace Platform
 
-A modern, real-time freelance marketplace platform built with **React**, **Node.js**, and **MongoDB**. GigFlow enables users to post gigs, bid on projects, and connect with freelancers—all with a beautiful dark-themed UI and atomic transaction support for race-condition-free hiring.
+A modern, real-time freelance marketplace platform built with **React**, **Node.js**, and **MongoDB**. TigFlow enables users to post gigs, bid on projects, and connect with freelancers—all with a beautiful dark-themed UI and atomic transaction support for race-condition-free hiring.
 
 ---
 
@@ -23,7 +23,7 @@ A modern, real-time freelance marketplace platform built with **React**, **Node.
 
 ## 📌 Overview
 
-**GigFlow** is a full-stack freelance marketplace that solves critical race condition problems in concurrent hiring scenarios. When multiple administrators click "Hire" simultaneously on different freelancers for the same project, the system ensures only ONE bid gets hired—preventing data corruption and maintaining data integrity.
+**TigFlow** is a full-stack freelance marketplace that solves critical race condition problems in concurrent hiring scenarios. When multiple administrators click "Hire" simultaneously on different freelancers for the same project, the system ensures only ONE bid gets hired—preventing data corruption and maintaining data integrity.
 
 - ✅ **Atomic hiring** using MongoDB transactions
 - ✅ **Beautiful dark theme** UI with gradients and animations
@@ -89,7 +89,7 @@ A modern, real-time freelance marketplace platform built with **React**, **Node.
 ## 📁 Project Structure
 
 ```
-Gigflow/
+Tigflow/
 ├── frontend/                      # React application
 │   ├── src/
 │   │   ├── pages/
@@ -543,7 +543,7 @@ MIT License - Feel free to use this project for learning and development.
 
 ## 👤 Author
 
-**GigFlow Development Team**
+**TigFlow Development Team**
 
 For questions or support, refer to the project documentation files.
 
